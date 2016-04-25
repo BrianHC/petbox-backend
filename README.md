@@ -10,3 +10,9 @@ Installation Instructions:
 4) Install mongo: npm install mongodb
 
 5) Serve the express app: node super-app-express.js
+
+Recommended development tools:
+
+Robomongo - mongodb manager
+
+Postman - api tester
